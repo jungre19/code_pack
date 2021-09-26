@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="361" />
     <histories>
+      <item value="方剂" />
       <item value="超量" />
       <item value="获取药物禁忌与提醒" />
       <item value="获取药物禁忌与提醒&#10;" />
@@ -11,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
